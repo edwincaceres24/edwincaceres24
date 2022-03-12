@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwincaceres24)](https://github.com/anuraghazra/github-readme-stats)
+🔭 I’m currently working as a freelance web developer
+🌱 I’m currently learning Backend Development with Javascript
+💬 Ask me about: Web Development, Ecommerce or Investing
+📫 How to reach me: edwin.caceressilva@gmail.com
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwincaceres24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
