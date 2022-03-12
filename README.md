@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a freelance web developer
-🌱 I’m currently learning Backend Development with Javascript
-💬 Ask me about: Web Development, Ecommerce or Investing
-📫 How to reach me: edwin.caceressilva@gmail.com
+🔭 I’m currently working as a freelance web developer <br>
+🌱 I’m currently learning Backend Development with Javascript <br>
+💬 Ask me about: Web Development, Ecommerce or Investing <br>
+📫 How to reach me: edwin.caceressilva@gmail.com <br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwincaceres24&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
